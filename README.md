@@ -1,7 +1,5 @@
 # 💫 About Me:
-## 🚀 About Me<br><br>🔭 I’m currently working on:<br>- Machine Learning<br>- Deep Learning<br>- AI Projects<br>- Python Mini Projects<br>- Technical Interview Preparation<br><br>👯 I’m looking to collaborate on:<br>- AI & Machine Learning Projects<br>- Deep Learning Projects<br>- Python Projects<br>- Open Source AI Applications<br><br>🤝 I’m looking for help with:<br>- Advanced AI<br>- Deep Learning<br>- Neural Networks<br>- LLM Applications<br>- AI Agents<br><br>🌱 I’m currently learning:<br>- Machine Learning<br>- Deep Learning<br>- Python for AI<br>- LangChain<br>- Chatbot Development<br>- AI Agents<br>- Large Language Models (LLMs)<br><br>💬 Ask me about:<br>- C<br>- C++<br>- Python<br>- Object-Oriented Programming (OOP)<br>- Basic Data Structures & Algorithms<br>- HTML & CSS<br>- Database Fundamentals<br>- AI Fundamentals<br><br>⚡ Fun fact:<br>I love solving coding challenges, building AI projects, and learning new technologies every day. My goal is to become an AI Engineer specializing in Machine Learning, Deep Learning, LLMs, and AI Agents.
-
-
+Future AI Engineer | Learning Machine Learning, Deep Learning, LLMs, LangChain, AI Agents, and MLOps.
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zohaib_msd) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zohaib_msd) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@zaibi1550) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhammadzohaib1550@gmail.com) 
 
@@ -15,7 +13,7 @@
 ---
 [![](https://komarev.com/ghpvc/?username=Zohaib2011&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
+## 🚀 About Me<br><br>🔭 I’m currently working on:<br>- Machine Learning<br>- Deep Learning<br>- AI Projects<br>- Python Mini Projects<br>- Technical Interview Preparation<br><br>👯 I’m looking to collaborate on:<br>- AI & Machine Learning Projects<br>- Deep Learning Projects<br>- Python Projects<br>- Open Source AI Applications<br><br>🤝 I’m looking for help with:<br>- Advanced AI<br>- Deep Learning<br>- Neural Networks<br>- LLM Applications<br>- AI Agents<br><br>🌱 I’m currently learning:<br>- Machine Learning<br>- Deep Learning<br>- Python for AI<br>- LangChain<br>- Chatbot Development<br>- AI Agents<br>- Large Language Models (LLMs)<br><br>💬 Ask me about:<br>- C<br>- C++<br>- Python<br>- Object-Oriented Programming (OOP)<br>- Basic Data Structures & Algorithms<br>- HTML & CSS<br>- Database Fundamentals<br>- AI Fundamentals<br><br>⚡ Fun fact:<br>I love solving coding challenges, building AI projects, and learning new technologies every day. My goal is to become an AI Engineer specializing in Machine Learning, Deep Learning, LLMs, and AI Agents.<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
 
 <!--
 **Zohaib2011/Zohaib2011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
